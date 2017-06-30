@@ -2,11 +2,18 @@ package com.example.android.newsapp.utilities;
 
 import android.net.Uri;
 
+import com.example.android.newsapp.model.NewsItem;
+
+import org.json.JSONException;
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
@@ -19,7 +26,7 @@ public final class NetworkUtils {
 
     private static final String SOURCE = "the-next-web";
     private static final String SORT_BY = "latest";
-    private static final String API_KEY = "";//API Key goes here
+    private static final String API_KEY = "e8f430f46de449ca96c16c741fcdb646";//API Key goes here
 
     final static String SOURCE_PARAM = "source";
     final static String SORT_PARAM = "sortBy";
@@ -61,6 +68,36 @@ public final class NetworkUtils {
         finally{
             urlConnection.disconnect();
         }
+    }
+
+    public static ArrayList<NewsItem> parseJSON(String json) throws JSONException {
+        ArrayList<NewsItem> result = new ArrayList<>();
+        JSONObject main = new JSONObject(json);
+        JSONArray items = main.getJSONArray("articles");
+
+        String source = main.getString("source");
+        String author;
+        String title;
+        String description;
+        String url;
+        String urlToImage;
+        String publishedAt;
+
+        for(int i = 0; i < items.length(); i++) {
+            JSONObject item = items.getJSONObject(i);
+
+            author = item.getString("author");
+            title = item.getString("title");
+            description = item.getString("description");
+            url = item.getString("url");
+            urlToImage = item.getString("urlToImage");
+            publishedAt = item.getString("publishedAt");
+
+            NewsItem newsItem = new NewsItem(source, author, title, description, url, urlToImage, publishedAt);
+            result.add(newsItem);
+        }
+
+        return result;
     }
 
 }

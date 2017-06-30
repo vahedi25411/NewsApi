@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Vahedi/.android/build-cache/e08f0c87980f68a0704123b28f501e0b6e69331a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Vahedi/.android/build-cache/06c7c1e5a36a333933a9765046bd0581cd251325/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Vahedi/.android/build-cache/bca29b24cfbb297c36b73cb986906a49eeeb3c6d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Vahedi/.android/build-cache/11ca76936bc025b9b511710800a9a48b63b6839c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Vahedi/.android/build-cache/47cc3e00ce5144407ad65a351a23c62fc0554016/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/f56cc850f0e451aba337ba511b9d64a2013ca473/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/b2be335a90e5a42abfb1b66f792dee97aa485455/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Vahedi/.android/build-cache/1ed313992fc2a5ea74395eb0466af2bd5aa9391f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Vahedi/.android/build-cache/1dcba599fb1cc3d34949cbeb95daa92281230e3c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.android.newsapp.MainActivity
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/Vahedi/.android/build-cache/867f5716cfa3f824b142c0d81885cda7f21514a7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Vahedi/.android/build-cache/e08f0c87980f68a0704123b28f501e0b6e69331a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Vahedi/.android/build-cache/06c7c1e5a36a333933a9765046bd0581cd251325/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Vahedi/.android/build-cache/bca29b24cfbb297c36b73cb986906a49eeeb3c6d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Vahedi/.android/build-cache/11ca76936bc025b9b511710800a9a48b63b6839c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Vahedi/.android/build-cache/47cc3e00ce5144407ad65a351a23c62fc0554016/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/f56cc850f0e451aba337ba511b9d64a2013ca473/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/b2be335a90e5a42abfb1b66f792dee97aa485455/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Vahedi/.android/build-cache/1ed313992fc2a5ea74395eb0466af2bd5aa9391f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Vahedi/.android/build-cache/1dcba599fb1cc3d34949cbeb95daa92281230e3c/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Vahedi/.android/build-cache/e08f0c87980f68a0704123b28f501e0b6e69331a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Vahedi/.android/build-cache/06c7c1e5a36a333933a9765046bd0581cd251325/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Vahedi/.android/build-cache/bca29b24cfbb297c36b73cb986906a49eeeb3c6d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Vahedi/.android/build-cache/11ca76936bc025b9b511710800a9a48b63b6839c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Vahedi/.android/build-cache/47cc3e00ce5144407ad65a351a23c62fc0554016/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/f56cc850f0e451aba337ba511b9d64a2013ca473/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Vahedi/.android/build-cache/b2be335a90e5a42abfb1b66f792dee97aa485455/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Vahedi/.android/build-cache/1ed313992fc2a5ea74395eb0466af2bd5aa9391f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/AndroidManifest.xml:26:9-47

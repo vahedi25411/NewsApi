@@ -1,0 +1,4 @@
+#Thu Jun 29 13:34:08 PDT 2017
+base.0=/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

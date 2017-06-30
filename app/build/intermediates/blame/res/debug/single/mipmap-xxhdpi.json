@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

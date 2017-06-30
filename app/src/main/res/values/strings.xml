@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">News App</string>
     <string name="search_button">Search</string>
+    <string name="error_message">Sorry, no data was received!</string>
 </resources>

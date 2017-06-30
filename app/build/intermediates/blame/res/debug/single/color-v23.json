@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Vahedi/.android/build-cache/dfa9c5a0117f4968b4c4bb9073051a72169eae7e/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7f0c47b169f2fe1abd84741a9303f08ee7c3add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vahedi/.android/build-cache/867f5716cfa3f824b142c0d81885cda7f21514a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4bfa0681ce2257d62b1fe405fc52df0cefde8bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30c76a32969fe47008988a1e6d0f240c371578e7">
+        <dex dex="/Users/Vahedi/Documents/Android/Git_Projects/NewsApi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8cada8741011ad6fc199d4a3ba76ff6e904ca1f1/classes.dex" />
+    </item>
+
+</items>
